@@ -37,6 +37,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/STMM-Hub/STMM-Hub/output/snake.svg" alt="Snake animation" />
-
 ###
