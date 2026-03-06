@@ -1,6 +1,5 @@
 <div align="center">
 
-# Si Thu Maung Maung
 ### Data Analytics Engineer · Business Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/si-thu-maung-maung-695887131/)
