@@ -1,1 +1,87 @@
-<h2 align="left">Hi There👋</h2>
+<div align="center">
+
+# Si Thu Maung Maung
+### Data Analytics Engineer · Business Intelligence
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/si-thu-maung-maung-695887131/)
+
+</div>
+
+---
+
+## About Me
+
+I build scalable data pipelines and BI solutions that turn raw operational data into decisions. 
+Currently based in Bangkok, open to remote and hybrid opportunities in data engineering and analytics.
+
+- 🔭 &nbsp;Working on: Data Engineering projects
+- 🌱 &nbsp;Learning: Advanced Lakehouse architecture, dbt
+
+---
+
+## Tech Stack
+
+**Languages & Query**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
+
+**Data Engineering & Cloud**
+
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps & Collaboration**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| [Data Engineering Boot Camp](https://www.dataexpert.io/certification/stmm-hub/yt-bootcamp-completion) | DataExpert.io | 2025 |
+| [Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/SiThuMaungMaung-0962/credentials/EF6524495EAFB112) | Microsoft | 2025 |
+| [Certified Data Engineer](https://www.datacamp.com/certificate/DE0010575847682) | DataCamp | 2024 |
+| [Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/sithumaungmaung-0962/credentials/9e146924cb772262?ref=https%3A%2F%2Fwww.linkedin.com%2F) | Microsoft | 2024 |
+| [Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/sithumaungmaung-0962/credentials/f4984478db68e5d8?ref=https%3A%2F%2Fwww.linkedin.com%2F) | Microsoft | 2024 |
+| [Certified Entry-Level Python Programmer (PCEP)](https://www.credly.com/badges/61d71706-9ecd-4079-82c4-11e3e8f1b1b0/linked_in_profile) | Python Institute | 2024 |
+
+---
+
+## Experience Highlights
+
+```
+Telenor Myanmar (2017–2022)       →  BI Officer → Senior Data Analytics Officer
+City Holdings Limited (2022–2024) →  Senior BI Developer
+Thalarwaddy Co., Ltd (2020–Now)   →  Technical & IT Manager (Part-time)
+```
+
+
+
+---
+
+<div align="center">
+
+*"Turning operational data into decisions — one pipeline at a time."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sithumgmg&color=blue&style=flat-square)
+
+</div>
